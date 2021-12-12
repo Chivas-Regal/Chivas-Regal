@@ -23,11 +23,11 @@
 </p>
 
 # Self
-Hi, I'm an ACMer.U can call me <b>Chivas_Regal</b> or <b>Camellia_Rainbow</b>.  
+Hi, I'm an ACMer.U can call me <b>Chivas_Regal🍺</b> or <b>Camellia_Rainbow🌈</b>.  
 I like to solve some problems that involves algorithm.  
-It shows that I am a back-end worker.  
-Actually,front-end is my favorite, because it seems like more creative.
-And creation is always colorful, just like flowers and wine, isn't it?
+It shows that I am a back-end💻 worker.  
+Actually,front-end🌍 is my favorite, because it seems like more creative.
+And creation is always colorful, just like flowers💐 and wine🍸, isn't it?
 
 # Data
 [![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chivas-Regal&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)

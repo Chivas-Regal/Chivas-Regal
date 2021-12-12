@@ -5,3 +5,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 [![Chivas_Regal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Chivas-Regal&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+:page_facing_up:

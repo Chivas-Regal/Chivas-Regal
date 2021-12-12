@@ -1,9 +1,10 @@
 <h1 align="center"><b> Yoo, I'm Chivas_Regal 👋 </b></h1>
 
+
 - 💻 **ACMer-Algorithm**
 - 📖 Studying at 🇨🇳 [ZZULI](http://www.zzuli.edu.cn/), _Major is Computer Science_
 - ⚡ C++ / HTML.
-- ✍️ [Blogger](https://www.chivas-regal.top)
+- 🖌️ [Blogger](https://www.chivas-regal.top)
 - 📷 Photograph 
 - 🎨 Paint
 - 🎸 Guitar

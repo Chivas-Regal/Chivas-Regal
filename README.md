@@ -1,4 +1,13 @@
-<h1 align="center"><b>🎉 Chivas_Regal 🎉 </b></h1>
+<h1 align="center"><b> Yoo, I'm Chivas_Regal 👋 </b></h1>
+
+- 💻 **ACMer-Algorithm**
+- 📖 Studying at 🇨🇳 [ZZULI](http://www.zzuli.edu.cn/), _Major is Computer Science_
+- ⚡ C++ / HTML.
+- ✍️ [Blogger](https://www.chivas-regal.top)
+- 📷 Photograph 
+- 🎨 Paint
+- 🎸 Guitar
+
 <p align="center"><img src="https://img.shields.io/badge/-Algorithms-29beb0?style=for-the-badge&logo=thealgorithms&labelColor=ffffff&color=#01BCB4"><br>
   <img src="https://img.shields.io/badge/ACM-math-red">&nbsp;<img src="https://img.shields.io/badge/ACM-graph-orange"><br>
   <img src="https://img.shields.io/badge/-C++-29beb0?style=flat&logo=cplusplus&labelColor=000000&color=004488">&nbsp;
@@ -17,11 +26,6 @@ I like to solve some problems that involves algorithm.
 It shows that I am a back-end worker.  
 Actually,front-end is my favorite, because it seems like more creative.
 And creation is always colorful, just like flowers and wine, isn't it?
-# Links
-<ul>
-  <li><a href="http://www.chivas-regal.top/">Blog</a></li>
-  <li><a href="https://codeforces.com/profile/Chivas_Regal">CodeForces</a></li>
-</ul>  
 
 # Data
 [![Stats](https://github-readme-stats.vercel.app/api?username=Chivas-Regal&hide=contribs,prs&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chivas-Regal&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)

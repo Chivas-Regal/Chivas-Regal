@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/-CSS3-29beb0?style=flat&logo=CSS3&labelColor=000000&color=E3D91A">&nbsp;
   <img src="https://img.shields.io/badge/-LaTeX-29beb0?style=flat&logo=latex&labelColor=000000&color=99D5E3">&nbsp;
   <img src="https://img.shields.io/badge/-JavaScript-29beb0?style=flat&logo=JavaScript&labelColor=ffffff&color=F7DF1E"><br>
-  <img src="https://badgen.net/github/checks/node-formidable/node-formidable/master/macos">&nbsp;<img src="https://badgen.net/github/checks/node-formidable/node-formidable/master/ubuntu?label=linux"><br>
+  <img src="https://badgen.net/github/checks/node-formidable/node-formidable/master/macos">&nbsp;<img src="https://badgen.net/github/checks/node-formidable/node-formidable/master/linux"><br>
 </p>
 
 # Self

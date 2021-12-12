@@ -29,5 +29,6 @@ Actually,front-end is my favorite, because it seems like more creative.
 And creation is always colorful, just like flowers and wine, isn't it?
 
 # Data
-[![Stats](https://github-readme-stats.vercel.app/api?username=Chivas-Regal&hide=contribs,prs&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chivas-Regal&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; [![Stats](https://github-readme-stats.vercel.app/api?username=Chivas-Regal&hide=contribs,prs&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
+[![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Chivas-Regal&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
 

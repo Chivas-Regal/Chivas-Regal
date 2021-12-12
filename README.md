@@ -1,14 +1,15 @@
 <img src = 'https://s2.loli.net/2021/12/12/SLq1DYXb2QpONgR.png' />  
 <h1 align="center"><b> Yoo, I'm Chivas_Regal 👋 </b></h1>
 
-
-- 💻 **ACMer-Algorithm**
-- 📖 Studying at 🇨🇳 [ZZULI](http://www.zzuli.edu.cn/), _Major is Computer Science_
-- ⚡ C++ / HTML.
-- 🖌️ [Blogger](https://www.chivas-regal.top)
-- 📷 Photograph 
-- 🎨 Paint
-- 🎸 Guitar
+<table align="center">
+  <tr><td>💻 </td><td><b>ACMer-Algorithm</b></td></tr>
+  <tr><td>📖 </td><td>Studying at 🇨🇳 <a href="http://www.zzuli.edu.cn/">ZZULI</a>, _Major is Computer Science_</td></tr>
+  <tr><td>⚡ </td><td>C++ / HTML.</td></tr>
+  <tr><td>🖌️ </td><td><a href="https://www.chivas-regal.top">Blogger</a></td></tr>
+  <tr><td>📷 </td><td>Photograph</td></tr> 
+  <tr><td>🎨 </td><td>Paint</td></tr>
+  <tr><td>🎸 </td><td>Guitar</td></tr>
+</table>
 
 <p align="center"><img src="https://img.shields.io/badge/-Algorithms-29beb0?style=for-the-badge&logo=thealgorithms&labelColor=ffffff&color=#01BCB4"><br>
   <img src="https://img.shields.io/badge/ACM-math-red">&nbsp;<img src="https://img.shields.io/badge/ACM-graph-orange"><br>

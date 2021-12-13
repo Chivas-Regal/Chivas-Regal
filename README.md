@@ -1,5 +1,5 @@
 <img src = 'https://s2.loli.net/2021/12/13/UoJARFLxhcg6HSd.png' />  
-<h1 align="center"><b> Yoo, I'm Chivas_Regal 👋 </b></h1>
+<h1 align="center"><b> Yoo, I'm Chivas_Regal(Camellia_Rainbow) 👋 </b></h1>
 
 <table align="center">
   <tr><td>💻 </td><td><b>ACMer-Algorithm</b></td></tr>

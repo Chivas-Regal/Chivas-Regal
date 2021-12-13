@@ -1,4 +1,4 @@
-<img src = 'https://s2.loli.net/2021/12/12/SLq1DYXb2QpONgR.png' />  
+<img src = 'https://s2.loli.net/2021/12/13/UoJARFLxhcg6HSd.png' />  
 <h1 align="center"><b> Yoo, I'm Chivas_Regal 👋 </b></h1>
 
 <table align="center">
